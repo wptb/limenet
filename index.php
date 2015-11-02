@@ -45,7 +45,7 @@
         <br/>
 	<li>2+ years experience using (design, monitoring and maintenance) Amazon Web Services</li>
         <li>5+ years as Systems Administrator</li>
-        <li>5+ years hands on experience with Windows, Linux, Novell and Lotus servers</li>     
+        <li>7- years hands on experience with Windows, Linux, Novell and Lotus servers</li>     
 	</div>
       
     </div>
