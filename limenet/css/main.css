@@ -1,0 +1,75 @@
+*	{
+			margin: 0;
+			padding: 0;
+			}
+body {
+			font-family: Segoe UI, Arial, Helvetica, sans-serif;
+			font-size: 80%;
+			background-color: #323333;
+			color: #6f6f6f;
+			}
+/* under construction ************************************************************************/			
+#cons {
+			position: absolute;
+			right: 0;
+			width: 200px;
+			height: 200px;
+			background-image: url(../img/cons.png);	
+			}						
+/* header ************************************************************************/
+#header {
+			padding: 2em 15%;
+			border-bottom: 1px solid #444;
+			}
+#header #logo {
+			height: 40px;
+			background: url('../img/limenet.png') no-repeat scroll 0 0 transparent;
+			}
+.kontakt {
+			border-bottom: 1px solid #444;
+			padding: 1em 15%;
+			text-align: right;
+			xbackground-color: #3f3f3f;
+			color: #888;
+			xdisplay: inline;
+			background-color: #3f3f3f;
+			}	
+.kontakt b:hover {
+			color: #80ad1e;
+}
+/* wrapper **********************************************************************/
+#wrapper {
+			min-height: 400px;			font-size: 110%;
+			width: 70%;
+			padding: 0 15%;
+			color: #ccc;
+			background: url(../img/tree.png) no-repeat scroll bottom right transparent;
+			}
+#wrapper h3 {
+			color: #80ad1e;
+			xcolor: #6f6f6f;
+			font-size: 120%;
+			margin: 1em 0 .5em;
+			}	
+#wrapper ul {
+			list-style-image: url(../img/ok.png);
+			list-style-position: outside;
+			margin-left: 25px;
+			margin-right: 1em;
+			margin-bottom: 2em;
+			width: 45%;
+			float: left;
+			}
+			
+/* footer **********************************************************************/			
+#footer {
+			padding: 1em 15%;
+			border-top: 1px solid #444;
+			xborder-bottom: 1px solid #444;
+			xbackground-color: #3f3f3f;
+			}				
+/* special **********************************************************************/
+.f_clear {
+			clear: both;
+			}				
+				
