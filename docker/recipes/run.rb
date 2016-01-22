@@ -3,10 +3,13 @@ template '/etc/init/docker-openvpn.conf' do
   owner 'root'
   group 'root'
   mode '0755'
+  not_if do
+    File.exists?('/etc/init/docker-openvpn.conf')
+  end
 end
 
-bash "docker-pusti" do
-  user "root"
+bash 'docker-run-container' do
+  user 'root'
   code <<-EOH
   start docker-openvpn
   EOH
