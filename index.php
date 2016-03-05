@@ -44,14 +44,14 @@
 	<li><a style="color:#80ad1e" target="_blank" href="http://goo.gl/VFO2cx">Stefan Chromik</a> - AWS Certified Solutions Architect - Associate Level - AWS-ASA-1308</li>
         <br/>
 	<li>2+ years experience using (design, monitoring and maintenance) Amazon Web Services</li>
-        <li>5+ years as Systems Administrator</li>
-        <li>7- years hands on experience with Windows, Linux, Novell and Lotus servers</li>     
+        <li>7+ years as Systems Administrator</li>
+        <li>7+ years hands on experience with Windows, Linux, Novell and Lotus servers</li>     
 	</div>
       
     </div>
   
     <div id="footer">
-      &copy; 2010-2015 Limenet. All rights reserved.
+      &copy; 2010-2016 Limenet. All rights reserved.
     </div>
  
   </div>  
